@@ -22,9 +22,7 @@ Through this project, we explore various machine learning techniques to build a 
 
 # Data Description
 Source: https://www.kaggle.com/competitions/playground-series-s4e10/data
-
 Size: 100K records and 13 features
-
 * id: Unique identifier for each loan application.
 * person_age: The applicant's age.
 * person_income: How much money the applicant makes per year.
