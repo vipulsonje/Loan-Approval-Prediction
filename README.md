@@ -11,7 +11,7 @@
 
 
 # Project Overview
-The project aims to develop a machine learning model that can predict whether a loan application will be approved based on various applicant details and financial metrics. 
+This project was developed as part of [Kaggle's Loan Approval Prediction competition](https://www.kaggle.com/competitions/playground-series-s4e10/overview), where the goal was to build a model to predict loan approvals based on applicant data. The competition provided a rich dataset that enabled the application of various machine learning techniques.
 The objective is to analyze and use historical data on previous loan applications, including attributes like income, loan amount, and applicant demographics, to identify key patterns that influence loan approval decisions. 
 By building an accurate prediction model, the project seeks to streamline loan approval processes and support financial institutions in making data-driven decisions.
 
