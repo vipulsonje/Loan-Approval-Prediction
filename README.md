@@ -1,4 +1,5 @@
 # Loan Approval Prediction
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Loan_Approval_Prediction-brightgreen)](https://www.kaggle.com/c/loan-default-prediction)
 
 # Table of Contents
 * [Project Overview](#project-overview)
