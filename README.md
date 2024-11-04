@@ -50,11 +50,23 @@ Size: 100K records and 13 features
 * **Data Cleaning**: No missing and duplicate values
 * **Exploratory Data Analysis (EDA)**: Analyzed data distributions, correlations.
 * **Feature Engineering**: Created additional features using encoding, normalized data.
-* **Model Selection**: Tried Random Forest, Decision Tree, KNN and Logistic Regression.
+* **Model Selection**: Developed Random Forest, Decision Tree, KNN and Logistic Regression.
 * **Model Tuning**: Used GridSearchCV for hyperparameter optimization.
 * **Evaluation**: Primary evaluation criteria is AUC ROC curve. Also evaluated on the basis of accuracy, precision and recall.
 
 # Results
+After experimenting with four different machine learning models, the final selected model achieved a ROC AUC score of 0.94 on the test set, indicating a strong ability to distinguish between approved and rejected loan applications. 
+This model outperformed the others in terms of both accuracy and consistency, demonstrating high predictive power.
+
+Key evaluation metrics for the selected model are as follows:
+* **ROC AUC Score**: 0.94028
+* **Accuracy**: 94.018%
+* **Precision**: 94.336
+* **Recall**: 94.018
 
 # Conclusion
+The loan approval prediction project successfully identified an optimal model that achieved an impressive ROC AUC score of 0.94. 
+Through thorough experimentation with multiple models and feature engineering, this final model demonstrated the best performance and proved capable of supporting decision-making processes in the loan approval pipeline. 
+This solution has the potential to help financial institutions streamline loan evaluations, reduce manual review time, and enhance risk management. 
+Future improvements could involve further tuning of hyperparameters, exploring additional features, and increasing the score using a deep learning model.
 
