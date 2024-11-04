@@ -40,10 +40,10 @@ Size: 100K records and 13 features
 * loan_status: Shows if the loan is approved or rejected.
 
 # Technology
-- **Programming Language**: Python 3.8
-- **Libraries**: Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Seaborn
-- **Tools**: Jupyter Notebook, Git, Docker
-- **Platform**: Google Colab
+* **Programming Language**: Python 3.10
+* **Libraries**: Pandas, NumPy, Scikit-Learn
+* **Tools**: Jupyter Notebook
+* **Platform**: Google Colab
 
 # Methodology
 * **Data Collection**: Gathered data from Kaggle 
