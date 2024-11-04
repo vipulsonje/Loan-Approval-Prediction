@@ -42,6 +42,7 @@ Size: 100K records and 13 features
 # Technology
 
 # Methodology
+**Data Collection**
 
 # Results
 
