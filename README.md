@@ -42,7 +42,13 @@ Size: 100K records and 13 features
 # Technology
 
 # Methodology
-**Data Collection**
+* **Data Collection**: Gathered data from Kaggle 
+* **Data Cleaning**: No missing and duplicate values
+* **Exploratory Data Analysis (EDA)**: Analyzed data distributions, correlations.
+* **Feature Engineering**: Created additional features using encoding, normalized data.
+* **Model Selection**: Tried Random Forest, Decision Tree, KNN and Logistic Regression.
+* **Model Tuning**: Used GridSearchCV for hyperparameter optimization.
+* **Evaluation**: Primary evaluation criteria is AUC ROC curve. Also evaluated on the basis of accuracy, precision and recall.
 
 # Results
 
